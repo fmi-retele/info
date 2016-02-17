@@ -1,0 +1,2 @@
+# info
+Informatii despre curs
