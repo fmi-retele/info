@@ -1,6 +1,6 @@
 # Informații
-#### [Contact curs](mailto:ldinu@fmi.unibuc.ro)  
-#### [Contact laborator](mailto:sergiu.nisioi@fmi.unibuc.ro)
+##### [Contact curs](mailto:ldinu@fmi.unibuc.ro)  
+##### [Contact laborator](mailto:sergiu.nisioi@fmi.unibuc.ro)
 **Orar**
 * Luni, Marti, Miercuri, Joi, Vineri
 
